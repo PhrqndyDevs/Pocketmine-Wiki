@@ -70,7 +70,7 @@ This wiki thrives on collective expertise. Your contributions ensure the resourc
 
 
 🏆 **Recognition**  
-- Active contributors/Donators will be acknowledged in the [Hall of Fame](link-to-hall-of-fame.md).  
+- Active contributors/Donators will be acknowledged in the [Hall of Fame](https://github.com/PhrqndyDevs/Pocketmine-Wiki/blob/main/HallOfFame)
 - Exceptional contributions may earn write-access privileges.  
 
 ---
