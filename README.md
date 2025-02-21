@@ -1,4 +1,4 @@
----
+
 @phrqndy 
 
 ### **PocketMine Wiki** 📘  
@@ -6,7 +6,7 @@
 
 Welcome to the **PocketMine Wiki** repository, a meticulously curated resource dedicated to empowering developers, server administrators, and enthusiasts of **PocketMine-MP**, the premier server software for Minecraft: Bedrock Edition. This repository serves as the central hub for comprehensive documentation, best practices, and collaborative innovation for the PocketMine ecosystem.  
 
----
+
 
 #### **Key Features**  
 📘 **In-Depth Documentation**  
