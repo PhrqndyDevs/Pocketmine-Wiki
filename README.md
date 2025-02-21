@@ -1,5 +1,5 @@
 
-@phrqndy 
+
 
 ### **PocketMine Plugins Browser** 📘  
 **Free Plugins For Pocketmine**  
@@ -95,8 +95,10 @@ Phrqndy - Owner @ Vexo
 
 #### **Roadmap**  
 🗺️ **Future Developments**  
-- Q4 2023: Integration with PocketMine-MP’s official documentation.  
-- Q1 2024: Interactive API reference powered by TypeScript.  
+- Q4 2025 Feb: Integration With SwissTransfer For This App.
+
+- Q1 2025 Summer: Adding +20 Plugins (Open Source)
+
 - Ongoing: Localization efforts for multilingual support (中文, Español, Français).  
 
 ---
@@ -114,8 +116,11 @@ Your support fuels our mission to build the definitive PocketMine-MP resource. C
 
 ---
 
-**Together, we advance the PocketMine ecosystem.**  
+**Together, we make Pocketmine Better.**  
+
 *Precision. Collaboration. Innovation.*  
+   ```bash
 Made By @Phrqndy - Owner @ Vexo
+   ```
 
 ---
