@@ -1,8 +1,8 @@
 
 @phrqndy 
 
-### **PocketMine Wiki** 📘  
-**The Authoritative Knowledge Base for PocketMine-MP Development and Administration**  
+### **PocketMine Plugins Browser** 📘  
+**Free Plugins For Pocketmine**  
 
 Welcome to the **PocketMine Wiki** repository, a meticulously curated resource dedicated to empowering developers, server administrators, and enthusiasts of **PocketMine-MP**, the premier server software for Minecraft: Bedrock Edition. This repository serves as the central hub for comprehensive documentation, best practices, and collaborative innovation for the PocketMine ecosystem.  
 
@@ -67,26 +67,27 @@ This wiki thrives on collective expertise. Your contributions ensure the resourc
 - **Peer Review**:  
   - Review open pull requests to maintain technical accuracy and clarity.  
 
-📌 **Quality Standards**  
-- Follow the [Style Guide](link-to-style-guide.md) for consistent formatting.  
-- Cite sources for advanced technical claims or community best practices.  
-- Use Markdown for structure and readability.  
+
 
 🏆 **Recognition**  
-- Active contributors will be acknowledged in the [Hall of Fame](link-to-hall-of-fame.md).  
+- Active contributors/Donators will be acknowledged in the [Hall of Fame](link-to-hall-of-fame.md).  
 - Exceptional contributions may earn write-access privileges.  
 
 ---
 
 #### **Licensing**  
 📜 **Open Source Commitment**  
-This repository is NOT licensed encouraging free use, modification, and distribution. Attribution to original authors is required.  
+This repository is NOT licensed encouraging free use, but modification, and distribution. Attribution to original authors is required.  
 
 ---
 
 #### **Acknowledgments**  
 This project is made possible by:  
-- The **PocketMine-MP Core Development Team** for their groundbreaking work.  
+```bash
+Project Lead:
+Phrqndy - Owner @ Vexo
+```
+-  The **PocketMine-MP Core Development Team** for their groundbreaking work.  
 - **Community Contributors** who dedicate time to improve this resource.  
 - **Server Administrators** worldwide who field-test and validate documentation.  
 
