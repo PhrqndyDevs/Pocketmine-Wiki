@@ -1,51 +1,13 @@
 
 
 
-### **PocketMine Plugins Browser** 📘  
-**Free Plugins For Pocketmine**  
+### **Pocketmine4All [Wiki]** 📘  
 
-Welcome to the **PocketMine Wiki** repository, a meticulously curated resource dedicated to empowering developers, server administrators, and enthusiasts of **PocketMine-MP**, the premier server software for Minecraft: Bedrock Edition. This repository serves as the central hub for comprehensive documentation, best practices, and collaborative innovation for the PocketMine ecosystem.  
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-
-
-#### **Key Features**  
-📘 **In-Depth Documentation**  
-- Step-by-step guides for installation, configuration, and optimization of PocketMine-MP servers.
-- Open Source Plugins & Way More To Explore
-
-- 
-- Advanced tutorials on plugin architecture, event handling, and API integration.  
-- Version-specific compatibility notes and upgrade pathways.  
-
-🔧 **Developer-Centric Resources**  
-- Detailed breakdowns of core PocketMine-MP systems and APIs.  
-- Code snippets, template repositories, and debugging workflows.  
-- Architectural best practices for scalable plugin development.  
-
-🔍 **Troubleshooting & Diagnostics**  
-- Curated solutions for common errors, performance bottlenecks, and compatibility issues.  
-- Diagnostic checklists and logging strategies for rapid issue resolution.  
-
-📝 **Best Practices & Optimization**  
-- Security hardening guidelines for server administrators.  
-- Resource optimization techniques for low-latency multiplayer environments.  
-- Community-vetted strategies for plugin interoperability.  
-
-🌐 **Community-Driven Insights**  
-- Case studies from high-traffic server deployments.  
-- Monthly spotlight on community-contributed plugins and tools.  
-
----
-
-#### **Target Audience**  
-- **Developers**: Deepen your expertise in PocketMine-MP plugin development and API utilization.  
-- **Server Administrators**: Streamline deployment, maintenance, and optimization of PocketMine servers.  
-- **Contributors**: Share your knowledge to refine and expand this living documentation.  
-
----
 
 #### **Getting Started**  
-1. **Explore the Wiki**: [Access the Live Wiki](https://your-wiki-link)  
+1. **Explore Pocketmine4All**: [Access the Live Wiki](https://rogue-peony-d1f.notion.site/Pocketmine4All-1a7fffd0b36180f4998ff8eb980ebd7b)  
 2. **Clone the Repository**:  
    ```bash  
    git clone https://github.com/your-repo/pocketmine-wiki.git  
